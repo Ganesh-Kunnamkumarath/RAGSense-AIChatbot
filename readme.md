@@ -9,6 +9,9 @@ RAGSense-AIChatbot is an **AI-driven chatbot** that leverages **Retrieval-Augmen
 ✔️ **Optimized UX** – Auto-scrolls chat, trims unnecessary whitespace, and prevents empty queries.  
 ✔️ **Easy Cloud Deployment** – Ready for hosting on **Hugging Face Spaces**.  
 
+
+Demo link - https://huggingface.co/spaces/Ganesh-Kunnamkumarath/RAGSense-AIChatbot
+
 ---
 
 ## 🛠️ Tech Stack  
