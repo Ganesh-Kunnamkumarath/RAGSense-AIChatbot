@@ -16,6 +16,10 @@ RAGSense-AIChatbot is an **AI-driven chatbot** that leverages **Retrieval-Augmen
   <img src="https://img.youtube.com/vi/uV-B68bFB1s/0.jpg" alt="Demo Video">
 </a>
 
+## Hugging Face Demo
+https://huggingface.co/spaces/Ganesh-Kunnamkumarath/RAGSense-AIChatbot
+
+
 ---
 
 ## 🛠️ Tech Stack  
